@@ -1,0 +1,6 @@
+Product Name:T-SHirt     ordered by: Protik     ordered customer Id:005     Customer Address:Dhaka
+Product Name:Shirt     ordered by: Fahim     ordered customer Id:003     Customer Address:Dhaka
+Product Name:Ak47     ordered by: Zahid     ordered customer Id:030     Customer Address:Dhaka
+Product Name:Fan     ordered by: Hujur     ordered customer Id:050     Customer Address:Dhaka
+Product Name:Ac     ordered by: Tushar     ordered customer Id:060     Customer Address:Dhaka
+Product Name:mobile     ordered by: ahsan     ordered customer Id:11a     Customer Address:lalbagh

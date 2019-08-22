@@ -1,0 +1,7 @@
+Product Name:Sunglass     ordered by: Protik     ordered customer Id:002     Customer Address:Dhaka
+Product Name:Laptop     ordered by: Hasan     ordered customer Id:001     Customer Address:Dhaka
+Product Name:Bajuka     ordered by: Hasan     ordered customer Id:020     Customer Address:Dhaka
+Product Name:SHirt     ordered by: Zunaied     ordered customer Id:200     Customer Address:Naogaon
+Product Name:fish     ordered by: hamim     ordered customer Id:11hamim     Customer Address:wari
+Product Name:Hammer     ordered by: Shamim     ordered customer Id:010     Customer Address:Dhaka
+Product Name:Glass     ordered by: Urbi     ordered customer Id:100     Customer Address:Netrokona
